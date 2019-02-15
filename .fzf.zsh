@@ -4,5 +4,5 @@ function safe-load {
 }
 
 
-safe-load /usr/share/fzf/completion.zsh
-safe-load /usr/share/fzf/key-bindings.zsh
+safe-load /usr/share/zsh/vendor-completions/_fzf
+safe-load /usr/share/doc/fzf/examples/key-bindings.zsh
